@@ -1,0 +1,31 @@
+.image{width: 300px;
+       height: 200px; 
+       object-fit: cover;
+       border: 1px solid bisque;
+       border-radius: 10px;
+       background-color: aqua;
+}
+.h1 {
+    justify-content: center; 
+    text-align: center; 
+    display: flex; 
+    font-style: italic;
+    color: burlywood;
+}
+.ul{ 
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}.footer{
+    background-color: burlywood;
+    color: aliceblue;
+    text-align: center;
+    padding: 1cm;
+    bottom: 0;
+    width: 100%;
+    margin-bottom: 1cm;
+}
+.categories{
+    color: brown;
+    font-family: serif;
+}
